@@ -1,7 +1,7 @@
-# CyberSecurity Summer Camp 2022 資訊安全暑訓營-程式安全：程式安全
+# CyberSecurity Summer Camp 2023 資訊安全暑訓營-程式安全：程式安全
 ```
 教育部先進資通安全實務人才培育計畫
-CyberSecurity Summer Camp 2022 資訊安全暑訓營-程式安全：程式安全
+CyberSecurity Summer Camp 2023 資訊安全暑訓營-程式安全：程式安全
    
 ✪指導單位：教育部資訊及科技教育司
 ✪主辦單位：教育部先進資通安全實務人才培育計畫推動辦公室、崑山科技大學、國立宜蘭大學、國立臺中工業高級中等學校
