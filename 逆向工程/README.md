@@ -21,14 +21,6 @@ https://drive.google.com/file/d/1UVClWC5BUf_vlFIiMXw_Q6bgaybqmAus/view?usp=shari
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
 ```
 
-
-# [課程問題提問表單](https://forms.gle/WBri5oMrDfz35Tw36)
-```
-學員對課程上或解題上有任何問題的可以在表單上提問直播時講師會解答
-https://forms.gle/WBri5oMrDfz35Tw36
-```
-
-
 # [Discord課程聊天室](https://discord.gg/NhauEzMz)
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
