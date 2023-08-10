@@ -76,7 +76,7 @@ https://discord.gg/NhauEzMz
 
 
 ## 8月27日(日) 09:00-12:00 陳憶賢講師線上Q&A(若學生沒問題將會提前結束)
-https://meet.google.com/hkh-wgue-eps
+https://meet.google.com/bho-tnfm-icn
 
 
 # [證書核發]
