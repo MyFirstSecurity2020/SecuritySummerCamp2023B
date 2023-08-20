@@ -54,7 +54,12 @@ https://discord.gg/NhauEzMz
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-
+| (Ch1) 環境設定 & Linux 基礎教學 | https://www.youtube.com/watch?v=VtDN9Eh9nt4 |
+| (Ch2) 逆向工程簡介 | https://www.youtube.com/watch?v=2dChk_keU-Q |
+| (Ch3-1) Linux C 程式語言開發基礎 | https://www.youtube.com/watch?v=-O967DHXMfo |
+| (Ch3-2) Lab - babyc | https://www.youtube.com/watch?v=wPDYgcxRuxo |
+| (Ch4-1) Linux 執行檔分析 | https://www.youtube.com/watch?v=beObsumaMbA |
+| (Ch4-2) Lab - invisible | https://www.youtube.com/watch?v=tTxTnMW9mOI |
 
 ## 8月27日(日) 09:00-12:00 陳憶賢講師線上Q&A(若學生沒問題將會提前結束)
 https://meet.google.com/bho-tnfm-icn
