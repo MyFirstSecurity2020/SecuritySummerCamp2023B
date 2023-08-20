@@ -11,19 +11,19 @@ CyberSecurity Summer Camp 2023 資訊安全暑訓營-程式安全：程式安全
 ```
 (1)環境安裝影片：https://youtu.be/Q9-ruKH032U
 (2)(未有VM軟體者首先安裝)Oracle VM VirtualBox下載連結：https://www.virtualbox.org/wiki/Downloads
-(3)image下載連結：https://drive.google.com/file/d/17Q6EAH0n8PKZIoajuCBkrJtT6Pezbkqp/view?usp=sharing
+(3)image下載連結：https://gntuedutw-my.sharepoint.com/:u:/g/personal/f08921a05_g_ntu_edu_tw/ESiXrRwZQD5EuFKY4xoPpx8BUfGaXWqqRtcnwxDR23WYjQ?e=KnGtaR
 VM帳號及密碼都是user
 ```
 
 # 課程簡報下載
-https://drive.google.com/file/d/1Bvsz-yfGnxdIaSbFDeqprAy7aGpxpBIF/view?usp=sharing
+https://gntuedutw-my.sharepoint.com/:f:/g/personal/f08921a05_g_ntu_edu_tw/EsLGAwc1IYBEuJRsSOPAvfQBrFlOK5Os_Uw8-8q6G8_mGw?e=tcoEEs
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
 # [CTF平台]
 |主題|網址|
 |:----:|:------|
-|2022-Pwn101-CTF|[平台連結](http://140.110.112.211)|
+|2022-Pwn101-CTF|[平台連結](http://120.114.62.213)|
 ```
 平台開放時間：8月21日09:00~8月26日16:30
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)

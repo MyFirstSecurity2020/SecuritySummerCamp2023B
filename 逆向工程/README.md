@@ -8,14 +8,14 @@ CyberSecurity Summer Camp 2023 資訊安全暑訓營-程式安全：逆向工程
 ✪聯絡窗口：謝小姐 / E-mail：isip.ksu@gmail.com或洽FB粉絲頁(高中職生資安研習營)
 ```
 # 課程簡報下載
-https://drive.google.com/file/d/1UVClWC5BUf_vlFIiMXw_Q6bgaybqmAus/view?usp=sharing
+https://gntuedutw-my.sharepoint.com/:f:/g/personal/f08921a05_g_ntu_edu_tw/EsLGAwc1IYBEuJRsSOPAvfQBrFlOK5Os_Uw8-8q6G8_mGw?e=qXNdR2
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
 # [CTF平台]
 |主題|網址|
 |:----:|:------|
-|2022-Reverse101-CTF|[平台連結](http://140.110.112.212)|
+|2023-Reverse101-CTF|[平台連結](http://120.114.62.206)|
 ```
 平台開放時間：8月21日09:00~8月26日16:30
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
@@ -43,37 +43,23 @@ https://discord.gg/NhauEzMz
 ## 影片開放與CTF解題時間為8月21日09:00~8月26日16:30
 |時間|主題|
 |:----:|:----|
-|8月9日09:00~12:00|Linux C程式語言開發基礎|
+|8月21日09:00-10:00|環境設置 & Linux 基礎教學|
+|8月21日10:00-12:00 13:30-15:00| 逆向工程簡介 + Linux C程式語言開發基礎|
 |8月9日13:30~16:30|Linux執行檔分析|
-|8月10日09:00~12:00|組合語言的解析(nasm)|
-|8月10日13:30~14:30|逆向工程入門(objdump、Ghidra、GDB、radare2)|
+|8月10日09:00~12:00|組合語言的解析|
+|8月10日13:30~16:30|逆向工程入門(objdump、ida、GDB、radare2)|
 
 
 # 8月21日(一)-8月22日(二) 逆向工程  課程表
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-|(CH1)簡介逆向工程|https://youtu.be/flg_BSfSb7U|
-|(CH2-1)C程式語言|https://youtu.be/chHPDHDssL8|
-|(CH2-2)Lab helloc|https://youtu.be/i0Il_pvylr0|
-|(CH3-1)執行檔格式|https://youtu.be/xcxXjzktc2I|
-|(CH3-2)執行檔格式|https://youtu.be/GkvepDvppp0|
-|(CH3-3)Lab hardcoding|https://youtu.be/nV1L1LL4yLw|
-|(CH4-1)x86組合語言|https://youtu.be/EuXgHNZZ5e0|
-|(CH4-2)x86組合語言|https://youtu.be/ocn5R0s5LrA|
-|(CH4-3)x86組合語言|https://youtu.be/Vh71ierP2yA|
-|(CH4-4)x86組合語言|https://youtu.be/0-CltdIOEvM|
-|(CH4-5)x86組合語言|https://youtu.be/48aGB4j158c|
-|(CH4-6)x86組合語言|https://youtu.be/Uxl4j3mcbAA|
-|(CH4-7)x86組合語言|https://youtu.be/TBPFPzD9H3A|
-|(CH4-8)x86組合語言|https://youtu.be/RG29wKfx9Yk|
-|(CH4-9)Lab broadcast|https://youtu.be/nUpIHQTNySg|
-|(CH5-1)逆向工程實戰|https://youtu.be/p1rLATUadXY|
-|(CH5-2)逆向工程實戰|https://youtu.be/eEDIABuvH2M|
-|(CH5-3)逆向工程實戰|https://youtu.be/VObSRlnpJrA|
-|(CH5-4)逆向工程實戰|https://youtu.be/S0unDgAbUio|
-|(CH5-5)逆向工程實戰|https://youtu.be/FysJp73scmA|
-
+| (Ch1) 環境設定 & Linux 基礎教學 | https://www.youtube.com/watch?v=VtDN9Eh9nt4 |
+| (Ch2) 逆向工程簡介 | https://www.youtube.com/watch?v=2dChk_keU-Q |
+| (Ch3-1) Linux C 程式語言開發基礎 | https://www.youtube.com/watch?v=-O967DHXMfo |
+| (Ch3-2) Lab - babyc | https://www.youtube.com/watch?v=wPDYgcxRuxo |
+| (Ch4-1) Linux 執行檔分析 | https://www.youtube.com/watch?v=beObsumaMbA |
+| (Ch4-2) Lab - invisible | https://www.youtube.com/watch?v=tTxTnMW9mOI |
 
 ## 8月27日(日) 09:00-12:00 陳憶賢講師線上Q&A(若學生沒問題將會提前結束)
 https://meet.google.com/bho-tnfm-icn
@@ -92,27 +78,15 @@ https://meet.google.com/bho-tnfm-icn
 
 #  需完成之題目      
 ```
-(1)完成11題題目。
+(1)完成??題題目。 (待補)
 (2)解題截止時間：8/26(六) 16:30
 Lab:
-helloc
-hardcoding
-broadcast
-weird
-
-推薦解題:
-compileC
-assemblyx86
+babyc
+invisible
 
 選擇性解題:
-CSIE_strace
-EasyCTF_adder
-EasyCTF_ezreverse
-EasyCTF_hexable
-EasyCTF_hexedit
-EasyCTF_liar
-EasyCTF_LuckyGuess
-Reverse
+babyc-ex
+invisible-ex
 ```
 
 #  所有課程簡報影片等資訊非經取得本單位或講者授權，不得任意轉載或公開傳輸。
