@@ -61,6 +61,12 @@ https://discord.gg/FVJd7khv
 | (Ch4-1) Linux 執行檔分析 | https://www.youtube.com/watch?v=beObsumaMbA |
 | (Ch4-2) Lab - invisible | https://www.youtube.com/watch?v=tTxTnMW9mOI |
 
+# [課程問題提問表單](https://forms.gle/FM5D3j4eGySeaTLV8)
+```
+學員對課程上或解題上有任何問題的可以在表單上提問，8月27日線上Q&A時講師會解答
+https://forms.gle/FM5D3j4eGySeaTLV8
+```
+
 ## 8月27日(日) 09:00-12:00 陳憶賢講師線上Q&A(若學生沒問題將會提前結束)
 https://meet.google.com/bho-tnfm-icn
 
