@@ -60,6 +60,12 @@ https://discord.gg/FVJd7khv
 | (Ch3-2) Lab - babyc | https://www.youtube.com/watch?v=wPDYgcxRuxo |
 | (Ch4-1) Linux 執行檔分析 | https://www.youtube.com/watch?v=beObsumaMbA |
 | (Ch4-2) Lab - invisible | https://www.youtube.com/watch?v=tTxTnMW9mOI |
+| (Ch5-1) 解析組合語言 | https://www.youtube.com/watch?v=e7v-v6dIXwk |
+| (Ch5-2) Lab - Programmer's Assemble | https://www.youtube.com/watch?v=CCGHvQ4oQlA |
+| (Ch6-1) Radare2 | https://www.youtube.com/watch?v=e7aOYzHgKNQ |
+| (Ch6-2) Lab - babyc-revenge | https://www.youtube.com/watch?v=LS1JIvCQmZ0 |
+| (Ch6-3) IDA Freeware & Lab - Demon Fortress | https://www.youtube.com/watch?v=74TsjGQPiTg |
+| (Ch6-4) GFB & Lab - invisible-revenge | https://www.youtube.com/watch?v=2KdzZTf33oM |
 
 # [課程問題提問表單](https://forms.gle/FM5D3j4eGySeaTLV8)
 ```
@@ -84,15 +90,24 @@ https://meet.google.com/bho-tnfm-icn
 
 #  需完成之題目      
 ```
-(1)完成??題題目。 (待補)
+(1)完成 10 題題目。
 (2)解題截止時間：8/26(六) 16:30
 Lab:
 babyc
 invisible
+Programmer's Assemble
+babyc-revenge
+Demon Fortress
+invisible-revenge
 
 選擇性解題:
 babyc-ex
 invisible-ex
+Programmer's Party
+EasyCTF_adder
+EasyCTF_liar
+EasyCTF_ezreverse
+EasyCTF_LuckyGuess
 ```
 
 #  所有課程簡報影片等資訊非經取得本單位或講者授權，不得任意轉載或公開傳輸。
