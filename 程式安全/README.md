@@ -80,6 +80,8 @@ https://discord.gg/FVJd7khv
 |(CH8-2)Format String|https://youtu.be/kgA2ZNpwic4|
 |(CH8-3)Format String|https://youtu.be/-0dYnQtMjBU|
 |(CH8-4)Format String|https://youtu.be/RGalgUT2VFM|
+|(CH9-1)Stack Migration|https://youtu.be/LibVsrE20R0|
+|(CH9-2)Stack Migration|https://youtu.be/f7YMBK2MY84|
 
 # [課程問題提問表單](https://forms.gle/FM5D3j4eGySeaTLV8)
 ```
