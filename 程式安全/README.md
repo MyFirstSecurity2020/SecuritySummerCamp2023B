@@ -82,6 +82,7 @@ https://discord.gg/FVJd7khv
 |(CH8-4)Format String|https://youtu.be/RGalgUT2VFM|
 |(CH9-1)Stack Migration|https://youtu.be/LibVsrE20R0|
 |(CH9-2)Stack Migration|https://youtu.be/f7YMBK2MY84|
+| Fuzzing Testing | https://youtu.be/WEBGTCJktiU |
 
 # [課程問題提問表單](https://forms.gle/FM5D3j4eGySeaTLV8)
 ```
