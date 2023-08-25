@@ -91,7 +91,7 @@ https://meet.google.com/bho-tnfm-icn
 #  需完成之題目      
 ```
 (1)完成 10 題題目。
-(2)解題截止時間：8/26(六) 16:30
+(2)解題截止時間：8/29(二) 16:30
 Lab:
 babyc
 invisible
