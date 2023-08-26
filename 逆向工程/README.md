@@ -76,6 +76,11 @@ https://forms.gle/FM5D3j4eGySeaTLV8
 ## 8月27日(日) 09:00-12:00 陳憶賢講師線上Q&A(若學生沒問題將會提前結束)
 https://meet.google.com/bho-tnfm-icn
 
+# [回饋問卷](https://forms.gle/5hveqkTEsL6CpRto7)
+```
+請學員於課程結束時填寫回饋問卷，您的寶貴意見，將成為我們日後規劃與辦理活動之參考，謝謝您的合作！
+https://forms.gle/5hveqkTEsL6CpRto7
+```
 
 # [證書核發]
 ```
